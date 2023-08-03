@@ -1,8 +1,13 @@
-# Instalando a extensão Code Runner no VS Code
+# Instalando a extensão Code Runner no Visual Studio Code
 
-Após instalar o compilador g++ do C++ e após instalar o VS Code, agora você pode instalar o plugin Code Runner.
+Após instalar o compilador g++ do C++ na sua máquina, você já pode compilar seus programas via terminal (no Linux) 
+ou via prompt de comando no (Windows). 
 
-O Code Runner permite que você execute um trecho de código ou um arquivo de código em várias linguagens de programação, incluindo códigos em linguagem C++.
+Porém, outras possibilidades de compilação estão disponíveis para quem estiver programando no editor Visual Studio Code. 
+Existem diversos plugins para o VS Code que facilitam a compilação sem ter que usar linha de comando, apenas usando 
+atalhos de teclado ou clique de botão. Um exemplo de plugin do VS Code que pode ser usado para compilação é o plugin **Code Runner**.
+
+O **Code Runner** permite que você compile e execute arquivos de código escritos em diversas linguagens de programação, incluindo códigos em linguagem C++.
 
 Para instalá-lo, você pode pesquisar no marketplace do VS Code.
 
