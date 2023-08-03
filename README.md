@@ -3,5 +3,5 @@ Repositório para a disciplina de Estrutura de Dados 2023.2 - Universidade Feder
 
 ## Sumário
 
-- [Code_Runner/Readme.md](Instalando a extensão Code Runner no Visual Studio Code)
-- Tutorial: Criando um arquivo makefile simples
+- [Instalando a extensão Code Runner no Visual Studio Code](Code_Runner/Readme.md)
+- [Tutorial: Criando um arquivo makefile simples](Makefile/Readme.md)
